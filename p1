@@ -1,0 +1,52 @@
+Problem Statement: Execution of Basic Linux commands.
+Theory:
+1.	uname – Print System Information
+The uname command prints system information such as kernel version and architecture.
+Syntax: uname [options]
+	eg: uname -a [This command displays all available system information.]
+
+2.	date – Display Date and Time
+The date command displays the current date and time.
+Syntax: date [options]
+	eg: date
+
+3.	ls – List Directory Contents
+The ls command is used to list directory contents.
+Syntax: ls [options] [directory]
+	eg: ls Desktop/
+
+4.	pwd – Print Working Directory
+The pwd command displays the current working directory.
+Syntax: pwd
+	eg: pwd
+
+5.	mkdir – Make Directory
+The mkdir command is used to create a new directory.
+Syntax: mkdir [directory_name]
+	eg: mkdir new_folder
+
+6.	shutdown – Shutdown or Restart System
+The shutdown command is used to shut down or restart the system.
+Syntax: sudo shutdown [options]
+	eg: sudo shutdown -h now [This command shuts down the system immediately.]
+
+7.	top – Display System Activity
+The top command displays real-time information about system activity.
+Syntax: top
+	eg: top
+
+8.	touch – Create Empty File
+The touch command is used to create an empty file.
+Syntax: touch [file_name]
+	eg: touch newfile.txt
+
+
+9.	cat – Concatenate and Display
+The cat command is used to display the contents of a file.
+Syntax: cat [file]
+	eg: cat newfile.txt
+
+10.	wget – Download
+The wget command is used to download files from the internet.
+Syntax: wget [URL]
+	eg: https://www.google.com/imgres?q=photo&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fvite%2Fassets%2Fphoto-masthead-375-BoK_p8LG.webp&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree
